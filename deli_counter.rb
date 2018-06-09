@@ -4,3 +4,7 @@ def line(people_in_line)
     puts "The line is currently empty."
   end
 end
+
+def take_a_number(number_in_line, person)
+  puts "Welcome, #{{name}. You are number #{} }"
+end
