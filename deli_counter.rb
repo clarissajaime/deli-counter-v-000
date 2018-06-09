@@ -6,5 +6,9 @@ def line(people_in_line)
 end
 
 def take_a_number(number_in_line, person)
-  puts "Welcome, #{{name}. You are number #{} }"
+  puts "Welcome, #{name}. You are number #{number_in_line}"
+end
+
+def now_serving
+  
 end
